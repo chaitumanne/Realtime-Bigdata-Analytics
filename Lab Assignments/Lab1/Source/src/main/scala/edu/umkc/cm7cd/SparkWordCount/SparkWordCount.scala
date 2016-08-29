@@ -1,7 +1,6 @@
 package edu.umkc.cm7cd.SparkWordCount
 
 import org.apache.spark._
-import org.apache.spark.SparkContext._
 
 object SparkWordCount {
   def main(args: Array[String]) {
