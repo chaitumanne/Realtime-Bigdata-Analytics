@@ -16,10 +16,11 @@ object SparkProgramming {
     // Action: Count the no of students in a class
     println("No of students "+input.count())
     // Transformation: Displaying the student details
-    val StudDetails = input.map{t => val p = t.split(",")
-      (p(0),p(1))
+    val StudDetails = input.map{t => val p = t.split(",").map(word=>(word,1))
+      (p(1))
     }
-    StudDetails.saveAsTextFile("StudentDetails")
+    val output=StudDetails.reduceByKey(_+_).map(item => item.swap).sortByKey(true,1).map(item => item.swap)
+    output.saveAsTextFile("op")
     // Transformation, Action: Count the number of students who scored 93
     println("Number of students who scored 93: "+input.filter(line => line.contains("93")).count())
   }
