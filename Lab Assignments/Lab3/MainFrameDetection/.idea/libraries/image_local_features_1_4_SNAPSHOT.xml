@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="image-local-features-1.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/image-local-features-1.4-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

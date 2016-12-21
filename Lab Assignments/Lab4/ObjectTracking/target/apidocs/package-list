@@ -1,0 +1,10 @@
+org.openimaj.demos
+org.openimaj.demos.audio
+org.openimaj.demos.core
+org.openimaj.demos.faces
+org.openimaj.demos.features
+org.openimaj.demos.hardware
+org.openimaj.demos.image
+org.openimaj.demos.utils
+org.openimaj.demos.video
+org.openimaj.demos.video.utils

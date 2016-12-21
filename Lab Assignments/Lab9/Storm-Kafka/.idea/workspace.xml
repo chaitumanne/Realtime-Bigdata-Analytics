@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84eb49fb-8a91-4961-95d0-510972bab6e5" name="Default" comment="" />
+    <ignored path="Storm-Kafka-Audio.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Storm-Kafka-Audio" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ContextRecognitionBolt.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ContextRecognitionBolt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="6.25829">
+              <caret line="182" column="32" selection-start-line="182" selection-start-column="32" selection-end-line="182" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="dedicatedModuleDir" value="E:\Acads\RealTime\Tutorial\Tutorial 9\Source Code\Storm-Kafka" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Storm-Kafka-Audio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Storm-Kafka-Audio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Storm-Kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Storm-Kafka-Audio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Storm-Kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Storm-Kafka-Audio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Storm-Kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Storm-Kafka-Audio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Storm-Kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Storm-Kafka-Audio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Storm-Kafka" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.StormKafkaMain">
+    <configuration default="false" name="StormKafkaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="StormKafkaMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Storm-Kafka-Audio" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Storm-Kafka-Audio" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.StormKafkaMain" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.StormKafkaMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Acads/BigData Analytics/Assignment/Tutorial 5/SparktoAndroid/Spark WordCount" value="1441857940982" />
+        <entry key="$USER_HOME$/Desktop/Acads/BigDataAnalytics/Assignment/Tutorial 10/AudioClassification" value="1460493998048" />
+        <entry key="$USER_HOME$/Desktop/Acads/BigDataAnalytics/Assignment/Tutorial 10/AudioFeatures" value="1445525424000" />
+        <entry key="$USER_HOME$/Desktop/Acads/BigDataAnalytics/Assignment/Tutorial 5/Spark Streaming/TwitterSparkStreaming" value="1457048887613" />
+        <entry key="$USER_HOME$/Desktop/Acads/BigDataAnalytics/Assignment/Tutorial 7/Android to Spark (Streaming)/SparkStreamingRecommendation" value="1457583600648" />
+        <entry key="$USER_HOME$/Desktop/Acads/BigDataAnalytics/Assignment/Tutorial 7/Sentiment Analysis/SentimentAnalysisCoreNLP" value="1457559668167" />
+        <entry key="$USER_HOME$/Desktop/Acads/BigDataAnalytics/Assignment/Tutorial 8/Streaming_Machine_Learning" value="1437176712000" />
+        <entry key="$USER_HOME$/Desktop/Acads/BigDataAnalytics/Assignment/Tutorial 9/CS5542 - Tutorial 9 Code/Image_Classification" value="1458792340622" />
+        <entry key="$USER_HOME$/Desktop/Acads/BigDataAnalytics/Assignment/Tutorial 9/CS5542 - Tutorial 9 Code/SparkIP" value="1458106624617" />
+        <entry key="$USER_HOME$/Desktop/Acads/BigDataAnalytics/Codes/BigdataApps-Spring2016-LabAssignments-master/LabAssignment8/Source/recommendationsystem" value="1461108146000" />
+        <entry key="$USER_HOME$/Desktop/Acads/BigDataAnalytics/Codes/Project-master/2nd Increment/Source/03 Spark_Streaming" value="1460005512000" />
+        <entry key="$USER_HOME$/Desktop/Acads/CS5560 - Tutorial 8 Source Code/SparkLDA" value="1467289254271" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/CS5560 - Tutorial 9 Source Code/Spark_KMeans_FV" value="1467520630066" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/CS5560 - Tutorial 6 Source Code/Spark-W2Vec" value="1466638891464" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/CS5560 - Tutorial 7 Source Code/SparkOpenIE" value="1467091754046" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/CS5560 - Tutorial 8 Source Code/SparkLDA" value="1468437547222" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/CS5560 - Tutorial 9 Source Code/Spark_KMeans_FV" value="1467520630066" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/CS5560 Tutorial 4 Source Code/Spark WordCount" value="1466027610614" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/CS5560 Tutorial 4 Source Code/Spark-TF-IDF" value="1466027516231" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/CS5560 Tutorial 5 Source Code/Spark-TF-IDF" value="1466027516000" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/CS5560 Tutorial 5 Source Code/SparkNLP" value="1466447358599" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/Code/InteligentServices" value="1465488820653" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/Code/SentimentAnalysisCoreNLP" value="1437683396790" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/Code/Tutorial-3-CoreNLP" value="1465922912020" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/Source Code/Tutorial 16" value="1469073418000" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/Tutorial 10 Source Code/SimpleRecommendationSystem" value="1457650158000" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/Tutorial 10 Source Code/Streaming_Machine_Learning" value="1437176712000" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/W13 - Source Code/Spark2Ont" value="1468515640289" />
+        <entry key="$USER_HOME$/Desktop/Acads/KDM/Tutorial/W14 - Source Code/RecommendationWorkflow" value="1468885146474" />
+        <entry key="$USER_HOME$/Desktop/Acads/RealTime/Tej/Source Code/TransformationsAndActions" value="1473301767861" />
+        <entry key="$USER_HOME$/Desktop/Acads/RealTime/Tutorial/Spark WordCount" value="1472152058000" />
+        <entry key="$USER_HOME$/Desktop/Acads/RealTime/Tutorial/Tutorial 2/Source Code/SparkTransformationActions" value="1472711121421" />
+        <entry key="$USER_HOME$/Desktop/Acads/RealTime/Tutorial/Tutorial 2/Source Code/TransformationsAndActions" value="1473301767861" />
+        <entry key="$USER_HOME$/Desktop/Dummy/RecommendationSystem" value="1456871666000" />
+        <entry key="$USER_HOME$/OneDrive/Documents/GitHub/BigData--Assignments---2016/Assignment 5&amp;6/Source/Question 1/TwitterSparkStreaming" value="1457072647003" />
+        <entry key="$USER_HOME$/OneDrive/Documents/GitHub/KDM-Summer-2016-ProjectDraft/1stIncrement/Source/CoreNLP" value="1466830633243" />
+        <entry key="$USER_HOME$/OneDrive/Documents/GitHub/KDM-Summer-2016-ProjectDraft/1stIncrement/Source/InteligentServices" value="1466830633791" />
+        <entry key="$USER_HOME$/OneDrive/Documents/GitHub/KDM-Summer-2016-ProjectDraft/1stIncrement/Source/MainSpark-TF-IDF" value="1466830635045" />
+        <entry key="$PROJECT_DIR$/../../../../../BigDataAnalytics/Assignment/Tutorial 9/CS5542 - Tutorial 9 Code/Image_Classification" value="1458792340622" />
+        <entry key="$PROJECT_DIR$/../../../Lab5/ImageClassification" value="1474567680000" />
+        <entry key="$PROJECT_DIR$/../../../Lab5/ImageClassification/ImageClassification" value="1474492036000" />
+        <entry key="$PROJECT_DIR$/../../../T5/ImageClassification/ImageClassification" value="1474492036000" />
+        <entry key="$PROJECT_DIR$/../../../Tutorial 5/ImageClassification/ImageClassification" value="1474492036000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84eb49fb-8a91-4961-95d0-510972bab6e5" name="Default" comment="" />
+      <created>1476988386910</created>
+      <option name="number" value="Default" />
+      <updated>1476988386910</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1476932600000" expanded="true" signature="89:3294" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="432:1791" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="448:863" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="577:849" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="597:710" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="730:831" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="880:1051" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="1068:1196" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="1213:1391" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="1408:1588" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="1605:1776" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="1804:3282" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="1879:3269" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="1897:2096" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="2119:2937" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="2214:2583" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="2251:2366" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="2396:2550" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="2431:2519" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="2612:2914" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="2644:2884" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="2770:2851" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="2958:3250" placeholder="..." />
+            <marker date="1476932600000" expanded="true" signature="3113:3228" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-38.752182">
+          <caret line="355" column="29" selection-start-line="355" selection-start-column="20" selection-end-line="355" selection-end-column="29" />
+          <folding>
+            <marker date="1444172456000" expanded="false" signature="0:215" placeholder="/.../" />
+            <marker date="1444172456000" expanded="false" signature="243:1390" placeholder="..." />
+            <marker date="1444172456000" expanded="true" signature="1392:6789" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="6824:83319" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="6888:6922" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="7118:7191" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="7233:8856" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="7531:7621" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="7631:7845" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="7910:8533" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="8036:8359" placeholder="//..." />
+            <marker date="1444172456000" expanded="true" signature="8543:8667" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="8736:8850" placeholder="{...}" />
+            <marker date="1444172456000" expanded="false" signature="10143:10154" placeholder=" { " />
+            <marker date="1444172456000" expanded="false" signature="10176:10182" placeholder=" }" />
+            <marker date="1444172456000" expanded="true" signature="10456:10637" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="10696:11302" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="11308:11944" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="false" signature="11990:12001" placeholder=" { " />
+            <marker date="1444172456000" expanded="false" signature="12040:12046" placeholder=" }" />
+            <marker date="1444172456000" expanded="true" signature="12052:12691" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="false" signature="12719:12730" placeholder=" { " />
+            <marker date="1444172456000" expanded="false" signature="12785:12791" placeholder=" }" />
+            <marker date="1444172456000" expanded="true" signature="12817:13469" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="13543:13589" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="13595:15205" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="15311:16688" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="15858:15970" placeholder="//..." />
+            <marker date="1444172456000" expanded="true" signature="16043:16138" placeholder="//..." />
+            <marker date="1444172456000" expanded="true" signature="16694:17426" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="17486:17780" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="17946:18275" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="17956:18078" placeholder="//..." />
+            <marker date="1444172456000" expanded="true" signature="18411:19224" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="18925:19112" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="18965:19094" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="19230:19946" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="20023:20078" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="20084:21853" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="21975:22035" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="22041:24615" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="24734:24794" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="25113:25587" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="25659:25877" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="25949:26149" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="26155:29386" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="29581:29868" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="29874:32614" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="32804:33692" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="34338:34575" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="34633:35587" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="35593:35752" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="35866:36984" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="36154:36252" placeholder="//..." />
+            <marker date="1444172456000" expanded="true" signature="36990:37562" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="false" signature="37612:37623" placeholder=" { " />
+            <marker date="1444172456000" expanded="false" signature="37640:37646" placeholder=" }" />
+            <marker date="1444172456000" expanded="true" signature="37704:38567" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="38668:39075" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="39081:39189" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="39253:39345" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="39445:39959" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="40018:40119" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="40191:40455" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="false" signature="40521:40532" placeholder=" { " />
+            <marker date="1444172456000" expanded="false" signature="40554:40560" placeholder=" }" />
+            <marker date="1444172456000" expanded="true" signature="40590:41773" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="41814:42080" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="42086:43461" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="43535:43899" placeholder="{...}" />
+            <marker date="1444172456000" expanded="false" signature="43545:43575" placeholder="/unchecked/" />
+            <marker date="1444172456000" expanded="true" signature="43905:44288" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="false" signature="44332:44343" placeholder=" { " />
+            <marker date="1444172456000" expanded="false" signature="44355:44361" placeholder=" }" />
+            <marker date="1444172456000" expanded="true" signature="44367:44898" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="44976:45040" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="45046:45684" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="45763:45946" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="45952:46416" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="46470:46658" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="46664:47311" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="47410:47600" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="47606:47675" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="47733:47888" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="47894:47963" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="48066:48428" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="48203:48421" placeholder="{...}" />
+            <marker date="1444172456000" expanded="false" signature="48241:48260" placeholder=" { " />
+            <marker date="1444172456000" expanded="false" signature="48292:48306" placeholder=" }" />
+            <marker date="1444172456000" expanded="false" signature="48351:48370" placeholder=" { " />
+            <marker date="1444172456000" expanded="false" signature="48397:48411" placeholder=" }" />
+            <marker date="1444172456000" expanded="false" signature="48552:48563" placeholder=" { " />
+            <marker date="1444172456000" expanded="false" signature="48612:48618" placeholder=" }" />
+            <marker date="1444172456000" expanded="true" signature="48625:49038" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="49095:49280" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="49286:49736" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="49806:49997" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="50028:51210" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="51273:51702" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="51424:51586" placeholder="//..." />
+            <marker date="1444172456000" expanded="true" signature="51708:54575" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="54650:54940" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="55003:56050" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="56202:56409" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="56869:57017" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="57132:57367" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="57658:58030" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="58310:59655" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="59985:60429" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="60435:60763" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="60810:61483" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="61489:61739" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="61778:62407" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="62450:63039" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="false" signature="63088:63099" placeholder=" { " />
+            <marker date="1444172456000" expanded="false" signature="63111:63117" placeholder=" }" />
+            <marker date="1444172456000" expanded="true" signature="63123:63808" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="63840:65950" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="64715:64836" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="64872:65729" placeholder="{...}" />
+            <marker date="1444172456000" expanded="false" signature="65862:65877" placeholder=" { " />
+            <marker date="1444172456000" expanded="false" signature="65934:65944" placeholder=" }" />
+            <marker date="1444172456000" expanded="true" signature="66645:67546" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="67738:69855" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="69997:73354" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="70301:70435" placeholder="{...}" />
+            <marker date="1444172456000" expanded="false" signature="70342:70369" placeholder=" { " />
+            <marker date="1444172456000" expanded="false" signature="70412:70434" placeholder=" }" />
+            <marker date="1444172456000" expanded="true" signature="73461:73901" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="74903:75621" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="75681:75877" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="75883:77762" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="77884:78098" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="78104:79120" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="79196:79404" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="79410:79817" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="79857:80229" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="80235:81213" placeholder="/**...*/" />
+            <marker date="1444172456000" expanded="true" signature="81267:82351" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="81320:81455" placeholder="//..." />
+            <marker date="1444172456000" expanded="true" signature="82529:83187" placeholder="{...}" />
+            <marker date="1444172456000" expanded="true" signature="83406:84030" placeholder="{...}" />
+            <marker date="1444172456000" expanded="false" signature="83488:83499" placeholder=" { " />
+            <marker date="1444172456000" expanded="false" signature="83520:83526" placeholder=" }" />
+            <marker date="1444172456000" expanded="true" signature="83574:84028" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StormKafkaMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2268761">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <marker date="1476937158000" expanded="false" signature="7:470" placeholder="..." />
+            <marker date="1476937158000" expanded="true" signature="472:515" placeholder="/**...*/" />
+            <marker date="1476937158000" expanded="true" signature="701:1661" placeholder="{...}" />
+            <marker date="1476937158000" expanded="true" signature="1717:2766" placeholder="{...}" />
+            <marker date="1476937158000" expanded="true" signature="2119:2243" placeholder="//..." />
+            <marker date="1476937158000" expanded="true" signature="2514:2718" placeholder="//..." />
+            <marker date="1476937158000" expanded="true" signature="2827:3067" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DoorKnockBolt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.56719">
+          <caret line="52" column="57" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
+          <folding>
+            <marker date="1476936516000" expanded="false" signature="7:557" placeholder="..." />
+            <marker date="1476936516000" expanded="true" signature="559:601" placeholder="/**...*/" />
+            <marker date="1476936516000" expanded="false" signature="698:715" placeholder="&lt;~&gt;" />
+            <marker date="1476936516000" expanded="true" signature="892:2322" placeholder="{...}" />
+            <marker date="1476936516000" expanded="true" signature="1259:1379" placeholder="//..." />
+            <marker date="1476936516000" expanded="true" signature="1535:2064" placeholder="//..." />
+            <marker date="1476936516000" expanded="true" signature="2403:2560" placeholder="{...}" />
+            <marker date="1476936516000" expanded="true" signature="2616:2862" placeholder="{...}" />
+            <marker date="1476936516000" expanded="true" signature="2920:4794" placeholder="{...}" />
+            <marker date="1476936516000" expanded="true" signature="4848:9814" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ContextRecognitionBolt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.25829">
+          <caret line="182" column="32" selection-start-line="182" selection-start-column="32" selection-end-line="182" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

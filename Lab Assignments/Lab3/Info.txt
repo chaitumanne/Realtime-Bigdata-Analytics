@@ -1,0 +1,7 @@
+#########################################
+Clarifai credentials
+#########################################
+Application Name: RTBDALab3
+Client ID: LgP1VUXQOb7uNF2rDlQwZHEmobXiNVFUD0VgaZj_
+Client Secret: oqXE8_-5t6G03s128g4Il63GqPofFbqzX8VX1sd-
+
